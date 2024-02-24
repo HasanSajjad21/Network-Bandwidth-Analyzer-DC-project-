@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1704207535 source:c:\users\lenovo\onedrive - green university of bangladesh\fall 2023\cse 308\project\banalyzer\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	<time.h>
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap.h
+	<pcap/pcap.h>
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap\pcap.h
+	<pcap/funcattrs.h>
+	<pcap/pcap-inttypes.h>
+	<winsock2.h>
+	<io.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/socket.h>
+	<pcap/bpf.h>
+	<stdio.h>
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap\funcattrs.h
+	<pcap/compiler-tests.h>
+	<Availability.h>
+	<sal.h>
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap\compiler-tests.h
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap\pcap-inttypes.h
+	<inttypes.h>
+	<inttypes.h>
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap\socket.h
+	<windef.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap\bpf.h
+	<winsock2.h>
+	<sys/types.h>
+	<pcap/funcattrs.h>
+	<pcap/dlt.h>
+
+1704123683 c:\users\lenovo\downloads\npcap-sdk-1.13\include\pcap\dlt.h
+
+1704207889 source:d:\onedrive - green university of bangladesh\university\7th semister\cse 308 data communication lab\project file\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	<time.h>
+

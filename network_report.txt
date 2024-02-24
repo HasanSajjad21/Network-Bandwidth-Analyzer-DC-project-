@@ -1,0 +1,15 @@
+Packet Length: 16
+Packet Data: 46 61 6B 65 20 70 61 63 6B 65 74 20 64 61 74 61 
+
+Packet Length: 16
+Packet Data: 46 61 6B 65 20 70 61 63 6B 65 74 20 64 61 74 61 
+
+Packet Length: 16
+Packet Data: 46 61 6B 65 20 70 61 63 6B 65 74 20 64 61 74 61 
+
+Original Packet Data: 46 61 6B 65 20 70 61 63 6B 65 74 20 64 61 74 61 
+Packet Length: 16
+Packet Length: 11
+Packet Data (Decimal): 44 110 6 215 134 68 28 13 192 69 73 
+Packet Data (Binary): 00101100 01101110 00000110 11010111 10000110 01000100 00011100 00001101 11000000 01000101 01001001 
+
