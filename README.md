@@ -5,9 +5,13 @@
  </b>
 </h1>
 
- Team Member Details
+ <h2>
+   Team Member Details
+ </h2>
 
- <h2>NAME & ID</h2>
+ <b>NAME & ID </b>
+
+ 
  <li>
   Zahidul Hasan Sajjad
  (212002030)
