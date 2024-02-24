@@ -9,10 +9,8 @@
 
  <h2>NAME & ID</h2>
  <li>
-  
-   Zahidul Hasan Sajjad
+  Zahidul Hasan Sajjad
  (212002030)
-
  </li>
  <li>
   Md.Rezaul Karim
