@@ -1,5 +1,27 @@
-This Our Data Cummunication Lab project.
+<h1>
+ <b>
+  This Our Data Cummunication Lab project.
  Course Code: CSE-308
+ </b>
+</h1>
+
+ Team Member Details
+
+ <h2>NAME & ID</h2>
+ <li>
+  <it>
+   Zahidul Hasan Sajjad
+ (212002030)
+  </it>
+  <it>
+    Md.Rezaul Karim
+ (212002044)
+  </it>
+ </li>
+ 
+ 
+
+
 
  <h1>Network Bandwidth Analyzer with Cyclic
  Redundancy Check (CRC) and Parity Checker</h1>
