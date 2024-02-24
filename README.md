@@ -9,14 +9,14 @@
 
  <h2>NAME & ID</h2>
  <li>
-  <it>
+  
    Zahidul Hasan Sajjad
  (212002030)
-  </it>
-  <it>
-    Md.Rezaul Karim
+
+ </li>
+ <li>
+  Md.Rezaul Karim
  (212002044)
-  </it>
  </li>
  
  
